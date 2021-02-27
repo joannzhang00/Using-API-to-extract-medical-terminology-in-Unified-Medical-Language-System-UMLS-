@@ -47,3 +47,7 @@ output:
    'tired time',
    'tiredness',
    'weariness'}})
+   
+4. You need:
+Authentication.py (attached)
+api key (need to sign up in the umls website: https://www.nlm.nih.gov/research/umls/index.html)
