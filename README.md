@@ -1,0 +1,1 @@
+# Using-API-to-extract-medical-terminology-in-Unified-Medical-Language-System-UMLS-
