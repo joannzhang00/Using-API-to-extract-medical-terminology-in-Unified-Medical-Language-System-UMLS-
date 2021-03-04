@@ -9,7 +9,7 @@ Using API key to extract medical synonyms from the language system for a bag of 
 
 3. How it works
 input: 
-  phrases = ['memory impairment', 'fatigue']
+  phrases = ['fatigue']
 output:
   {'fatigue': {'decrease in energy',
    'decreased energy',
